@@ -8,6 +8,10 @@
 - 📭 1984779164@qq.com
 
 
+<img alt="GitHub followers" src ="https://img.shields.io/github/followers/fengjing95?style=social" />
+
+![:fengjing95](https://api.moedog.org/count/@fengjing95?theme=galbooru)
+
 
 #### 🛠️Technology Stack
 
