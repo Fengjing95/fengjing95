@@ -19,10 +19,31 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007acc.svg?logo=typescript&logoColor=white&style=flat-square)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=cplusplus&logoColor=white&style=flat-square)
 
-<img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=Vue.js&logoColor=%234fc08d&style=flat-square" alt="Vue.js" /> <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=React&logoColor=%2361dafb&style=flat-square" alt="React" /> <img src="https://img.shields.io/badge/Html5-%23e34f26.svg?logo=html5&logoColor=white&style=flat-square" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-%231572b6.svg?logo=css3&logoColor=white&style=flat-square" alt="CSS3" /> <img src="https://img.shields.io/badge/Sass-%23CC6699.svg?logo=sass&logoColor=white&style=flat-square" alt="SASS" /> <img src="https://img.shields.io/badge/Node.js-%2343853d.svg?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" /> <img src="https://img.shields.io/badge/NPM-%23cb0000.svg?logo=npm&logoColor=white&style=flat-square" alt="npm" /> <img src="https://img.shields.io/badge/Electron-%231572b6.svg?logo=Electron&logoColor=white&style=flat-square" alt="Electron">  <img src="https://img.shields.io/badge/Webpack-%231e72b3.svg?logo=Webpack&logoColor=white&style=flat-square" alt="Webpack" /> <img src="https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff" alt="Vite" > <img src="https://img.shields.io/badge/Rollup-%23EC4A3F.svg?logo=rollup.js&logoColor=white&style=flat-square" alt="Rollup" > 
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=Vue.js&logoColor=%234fc08d&style=flat-square)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=React&logoColor=%2361dafb&style=flat-square)
+![HTML5](https://img.shields.io/badge/Html5-%23e34f26.svg?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-%231572b6.svg?logo=css3&logoColor=white&style=flat-square)
+![SASS](https://img.shields.io/badge/Sass-%23CC6699.svg?logo=sass&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-%2343853d.svg?logo=node.js&logoColor=white&style=flat-square)
+![npm](https://img.shields.io/badge/NPM-%23cb0000.svg?logo=npm&logoColor=white&style=flat-square)
+![Electron](https://img.shields.io/badge/Electron-%231572b6.svg?logo=Electron&logoColor=white&style=flat-square)
+![Webpack](https://img.shields.io/badge/Webpack-%231e72b3.svg?logo=Webpack&logoColor=white&style=flat-square)
+![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
+![Rollup](https://img.shields.io/badge/Rollup-%23EC4A3F.svg?logo=rollup.js&logoColor=white&style=flat-square)
+![WebRTC](https://img.shields.io/badge/WebRTC-%23333333.svg?logo=WebRTC&logoColor=white&style=flat-square)
+![jsonwebtokens](https://img.shields.io/badge/JWT-%23000000.svg?logo=jsonwebtokens&logoColor=white&style=flat-square)
+![webauthn](https://img.shields.io/badge/WebAuthn-%233423A6.svg?logo=webauthn&logoColor=white&style=flat-square)
+![2fas](https://img.shields.io/badge/2FAS-%23EC1C24.svg?logo=2fas&logoColor=white&style=flat-square)
+![webassembly](https://img.shields.io/badge/WASM-%23654FF0.svg?logo=webassembly&logoColor=white&style=flat-square)
 
-<img src="https://img.shields.io/badge/MySQL-%234479a1.svg?logo=MySQL&logoColor=white&style=flat-square" alt="MySQL" /> <img src="https://img.shields.io/badge/Mongodb-%234ea94b.svg?logo=Mongodb&logoColor=white&style=flat-square" alt="MongoDB" />
+![MinIO](https://img.shields.io/badge/MinIO-%23C72E49.svg?logo=silverairways&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-%234479a1.svg?logo=MySQL&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/Mongodb-%234ea94b.svg?logo=Mongodb&logoColor=white&style=flat-square)
+![SQLLite](https://img.shields.io/badge/SQLite-%23003B57.svg?logo=SQLite&logoColor=white&style=flat-square)
+![Vim](https://img.shields.io/badge/Vim-%23019733.svg?logo=Vim&logoColor=white&style=flat-square)
+![WebStorm](https://img.shields.io/badge/WebStorm-%23000000.svg?logo=WebStorm&logoColor=white&style=flat-square)
 
 
 
